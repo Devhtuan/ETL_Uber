@@ -1,0 +1,13 @@
+
+
+uber_etl_project/
+├── data/
+│   └── uber_data.csv              # File dữ liệu đầu vào
+├── config.py                      # Cấu hình (đường dẫn, thông tin BigQuery)
+├── extract.py                     # Hàm đọc và kiểm tra dữ liệu
+├── transform.py                   # Hàm xử lý và tạo bảng fact/dimension
+├── load.py                        # Hàm tải dữ liệu lên BigQuery
+├── main.py                        # Script chính để chạy toàn bộ quy trình
+├── test_etl.ipynb                 # Jupyter Notebook để thử nghiệm
+├── requirements.txt               # Danh sách thư viện cần cài đặt
+└── etl_log.txt                    # File log ghi lại quá trình thực thi

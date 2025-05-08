@@ -1,0 +1,168 @@
+2025-05-08 09:41:06,121 - INFO - B\u1eaft \u0111\u1ea7u \u0111\u1ecdc d\u1eef li\u1ec7u t\u1eeb file CSV
+2025-05-08 09:41:06,524 - INFO - \u0110\u1ecdc thành công: 100000 b\u1ea3n ghi
+2025-05-08 09:41:43,824 - INFO - Ki\u1ec3m tra giá tr\u1ecb NaN
+2025-05-08 09:41:43,955 - INFO - \u0110ã x\u1eed lý giá tr\u1ecb NaN
+2025-05-08 09:42:14,662 - INFO - Ki\u1ec3m tra giá tr\u1ecb NaN
+2025-05-08 09:42:14,739 - INFO - \u0110ã x\u1eed lý giá tr\u1ecb NaN
+2025-05-08 09:42:57,789 - INFO - B\u1eaft \u0111\u1ea7u \u0111\u1ecdc d\u1eef li\u1ec7u t\u1eeb file CSV
+2025-05-08 09:42:58,192 - INFO - \u0110\u1ecdc thành công: 100000 b\u1ea3n ghi
+2025-05-08 09:42:58,192 - INFO - Ki\u1ec3m tra giá tr\u1ecb NaN
+2025-05-08 09:42:58,295 - INFO - \u0110ã x\u1eed lý giá tr\u1ecb NaN
+2025-05-08 09:44:56,966 - INFO - T\u1ea1o b\u1ea3ng datetime_dim
+2025-05-08 09:44:57,315 - INFO - B\u1ea3ng datetime_dim không có trùng l\u1eb7p
+2025-05-08 09:45:33,812 - INFO - T\u1ea1o b\u1ea3ng passenger_count_dim
+2025-05-08 09:45:33,816 - INFO - B\u1ea3ng passenger_count_dim không có trùng l\u1eb7p
+2025-05-08 09:45:41,074 - INFO - T\u1ea1o b\u1ea3ng trip_distance_dim
+2025-05-08 09:45:41,085 - INFO - B\u1ea3ng trip_distance_dim không có trùng l\u1eb7p
+2025-05-08 09:45:48,889 - INFO - T\u1ea1o b\u1ea3ng rate_code_dim
+2025-05-08 09:45:48,904 - INFO - B\u1ea3ng rate_code_dim không có trùng l\u1eb7p
+2025-05-08 09:45:57,993 - INFO - T\u1ea1o b\u1ea3ng pickup_location_dim và dropoff_location_dim
+2025-05-08 09:45:58,080 - INFO - B\u1ea3ng pickup_location_dim không có trùng l\u1eb7p
+2025-05-08 09:45:58,105 - INFO - B\u1ea3ng dropoff_location_dim không có trùng l\u1eb7p
+2025-05-08 09:46:05,772 - INFO - T\u1ea1o b\u1ea3ng payment_type_dim
+2025-05-08 09:46:05,781 - INFO - B\u1ea3ng payment_type_dim không có trùng l\u1eb7p
+2025-05-08 09:46:12,195 - INFO - T\u1ea1o b\u1ea3ng fact_table
+2025-05-08 09:46:12,738 - WARNING - B\u1ea3ng fact_table có 140 b\u1ea3n ghi trùng l\u1eb7p
+2025-05-08 09:46:12,807 - INFO - \u0110ã lo\u1ea1i b\u1ecf trùng l\u1eb7p trong b\u1ea3ng fact_table
+2025-05-08 09:46:39,286 - INFO - T\u1ea1o b\u1ea3ng datetime_dim
+2025-05-08 09:46:39,495 - INFO - B\u1ea3ng datetime_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,495 - INFO - T\u1ea1o b\u1ea3ng passenger_count_dim
+2025-05-08 09:46:39,499 - INFO - B\u1ea3ng passenger_count_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,499 - INFO - T\u1ea1o b\u1ea3ng trip_distance_dim
+2025-05-08 09:46:39,503 - INFO - B\u1ea3ng trip_distance_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,504 - INFO - T\u1ea1o b\u1ea3ng rate_code_dim
+2025-05-08 09:46:39,507 - INFO - B\u1ea3ng rate_code_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,508 - INFO - T\u1ea1o b\u1ea3ng pickup_location_dim và dropoff_location_dim
+2025-05-08 09:46:39,585 - INFO - B\u1ea3ng pickup_location_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,613 - INFO - B\u1ea3ng dropoff_location_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,613 - INFO - T\u1ea1o b\u1ea3ng payment_type_dim
+2025-05-08 09:46:39,619 - INFO - B\u1ea3ng payment_type_dim không có trùng l\u1eb7p
+2025-05-08 09:46:39,620 - INFO - T\u1ea1o b\u1ea3ng fact_table
+2025-05-08 09:46:40,035 - WARNING - B\u1ea3ng fact_table có 140 b\u1ea3n ghi trùng l\u1eb7p
+2025-05-08 09:46:40,099 - INFO - \u0110ã lo\u1ea1i b\u1ecf trùng l\u1eb7p trong b\u1ea3ng fact_table
+2025-05-08 09:49:10,133 - INFO - T\u1ea1o dataset uber-project-459004.uber_dataset
+2025-05-08 09:49:11,773 - INFO - Dataset uber-project-459004.uber_dataset \u0111ã s\u1eb5n sàng
+2025-05-08 09:49:23,957 - INFO - T\u1ea1o dataset uber-project-459004.uber_dataset
+2025-05-08 09:49:25,741 - INFO - Dataset uber-project-459004.uber_dataset \u0111ã s\u1eb5n sàng
+2025-05-08 09:49:25,741 - INFO - T\u1ea3i b\u1ea3ng fact_table lên BigQuery
+2025-05-08 09:49:32,209 - INFO - 99930 out of 99930 rows loaded.
+2025-05-08 09:49:32,210 - INFO - T\u1ea3i b\u1ea3ng fact_table thành công
+2025-05-08 09:49:59,561 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report
+2025-05-08 09:50:03,829 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report thành công
+2025-05-08 09:50:03,831 - INFO - Xu\u1ea5t b\u1ea3ng tbl_analysis_report ra CSV
+2025-05-08 09:50:19,750 - INFO - Xu\u1ea5t file tbl_analysis_report.csv thành công
+2025-05-08 09:50:19,776 - INFO - T\u1ea1o dataset uber-project-459004.uber_dataset
+2025-05-08 09:50:20,850 - INFO - Dataset uber-project-459004.uber_dataset \u0111ã s\u1eb5n sàng
+2025-05-08 09:50:20,850 - INFO - T\u1ea3i b\u1ea3ng fact_table lên BigQuery
+2025-05-08 09:50:26,045 - INFO - 99930 out of 99930 rows loaded.
+2025-05-08 09:50:26,045 - INFO - T\u1ea3i b\u1ea3ng fact_table thành công
+2025-05-08 09:50:26,045 - INFO - T\u1ea3i b\u1ea3ng datetime_dim lên BigQuery
+2025-05-08 09:50:30,899 - INFO - 99853 out of 99853 rows loaded.
+2025-05-08 09:50:30,899 - INFO - T\u1ea3i b\u1ea3ng datetime_dim thành công
+2025-05-08 09:50:30,899 - INFO - T\u1ea3i b\u1ea3ng passenger_count_dim lên BigQuery
+2025-05-08 09:50:36,441 - INFO - 7 out of 7 rows loaded.
+2025-05-08 09:50:36,441 - INFO - T\u1ea3i b\u1ea3ng passenger_count_dim thành công
+2025-05-08 09:50:36,441 - INFO - T\u1ea3i b\u1ea3ng trip_distance_dim lên BigQuery
+2025-05-08 09:50:40,337 - INFO - 2303 out of 2303 rows loaded.
+2025-05-08 09:50:40,338 - INFO - T\u1ea3i b\u1ea3ng trip_distance_dim thành công
+2025-05-08 09:50:40,338 - INFO - T\u1ea3i b\u1ea3ng rate_code_dim lên BigQuery
+2025-05-08 09:50:42,850 - INFO - 6 out of 6 rows loaded.
+2025-05-08 09:50:42,850 - INFO - T\u1ea3i b\u1ea3ng rate_code_dim thành công
+2025-05-08 09:50:42,850 - INFO - T\u1ea3i b\u1ea3ng pickup_location_dim lên BigQuery
+2025-05-08 09:50:47,337 - INFO - 98055 out of 98055 rows loaded.
+2025-05-08 09:50:47,337 - INFO - T\u1ea3i b\u1ea3ng pickup_location_dim thành công
+2025-05-08 09:50:47,337 - INFO - T\u1ea3i b\u1ea3ng dropoff_location_dim lên BigQuery
+2025-05-08 09:50:52,305 - INFO - 98417 out of 98417 rows loaded.
+2025-05-08 09:50:52,306 - INFO - T\u1ea3i b\u1ea3ng dropoff_location_dim thành công
+2025-05-08 09:50:52,306 - INFO - T\u1ea3i b\u1ea3ng payment_type_dim lên BigQuery
+2025-05-08 09:50:56,628 - INFO - 4 out of 4 rows loaded.
+2025-05-08 09:50:56,629 - INFO - T\u1ea3i b\u1ea3ng payment_type_dim thành công
+2025-05-08 09:50:56,636 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report
+2025-05-08 09:51:03,627 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report thành công
+2025-05-08 09:51:03,630 - INFO - Xu\u1ea5t b\u1ea3ng tbl_analysis_report ra CSV
+2025-05-08 09:51:20,966 - INFO - Xu\u1ea5t file tbl_analysis_report.csv thành công
+2025-05-08 09:59:57,807 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-08 09:59:57,810 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-08 10:10:53,907 - INFO - B\u1eaft \u0111\u1ea7u \u0111\u1ecdc d\u1eef li\u1ec7u t\u1eeb file CSV
+2025-05-08 10:10:54,274 - INFO - \u0110\u1ecdc thành công: 100000 b\u1ea3n ghi
+2025-05-08 10:10:54,312 - INFO - Ki\u1ec3m tra giá tr\u1ecb NaN
+2025-05-08 10:10:54,372 - INFO - \u0110ã x\u1eed lý giá tr\u1ecb NaN
+2025-05-08 10:10:54,439 - INFO - B\u1eaft \u0111\u1ea7u \u0111\u1ecdc d\u1eef li\u1ec7u t\u1eeb file CSV
+2025-05-08 10:10:54,808 - INFO - \u0110\u1ecdc thành công: 100000 b\u1ea3n ghi
+2025-05-08 10:10:54,808 - INFO - Ki\u1ec3m tra giá tr\u1ecb NaN
+2025-05-08 10:10:54,890 - INFO - \u0110ã x\u1eed lý giá tr\u1ecb NaN
+2025-05-08 10:10:54,962 - INFO - T\u1ea1o b\u1ea3ng datetime_dim
+2025-05-08 10:10:55,230 - INFO - B\u1ea3ng datetime_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,261 - INFO - T\u1ea1o b\u1ea3ng passenger_count_dim
+2025-05-08 10:10:55,268 - INFO - B\u1ea3ng passenger_count_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,292 - INFO - T\u1ea1o b\u1ea3ng trip_distance_dim
+2025-05-08 10:10:55,302 - INFO - B\u1ea3ng trip_distance_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,343 - INFO - T\u1ea1o b\u1ea3ng rate_code_dim
+2025-05-08 10:10:55,353 - INFO - B\u1ea3ng rate_code_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,391 - INFO - T\u1ea1o b\u1ea3ng pickup_location_dim và dropoff_location_dim
+2025-05-08 10:10:55,479 - INFO - B\u1ea3ng pickup_location_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,503 - INFO - B\u1ea3ng dropoff_location_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,565 - INFO - T\u1ea1o b\u1ea3ng payment_type_dim
+2025-05-08 10:10:55,574 - INFO - B\u1ea3ng payment_type_dim không có trùng l\u1eb7p
+2025-05-08 10:10:55,612 - INFO - T\u1ea1o b\u1ea3ng fact_table
+2025-05-08 10:10:56,085 - WARNING - B\u1ea3ng fact_table có 140 b\u1ea3n ghi trùng l\u1eb7p
+2025-05-08 10:10:56,147 - INFO - \u0110ã lo\u1ea1i b\u1ecf trùng l\u1eb7p trong b\u1ea3ng fact_table
+2025-05-08 10:10:56,204 - INFO - T\u1ea1o b\u1ea3ng datetime_dim
+2025-05-08 10:10:56,399 - INFO - B\u1ea3ng datetime_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,399 - INFO - T\u1ea1o b\u1ea3ng passenger_count_dim
+2025-05-08 10:10:56,404 - INFO - B\u1ea3ng passenger_count_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,404 - INFO - T\u1ea1o b\u1ea3ng trip_distance_dim
+2025-05-08 10:10:56,410 - INFO - B\u1ea3ng trip_distance_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,410 - INFO - T\u1ea1o b\u1ea3ng rate_code_dim
+2025-05-08 10:10:56,417 - INFO - B\u1ea3ng rate_code_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,417 - INFO - T\u1ea1o b\u1ea3ng pickup_location_dim và dropoff_location_dim
+2025-05-08 10:10:56,526 - INFO - B\u1ea3ng pickup_location_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,557 - INFO - B\u1ea3ng dropoff_location_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,557 - INFO - T\u1ea1o b\u1ea3ng payment_type_dim
+2025-05-08 10:10:56,565 - INFO - B\u1ea3ng payment_type_dim không có trùng l\u1eb7p
+2025-05-08 10:10:56,565 - INFO - T\u1ea1o b\u1ea3ng fact_table
+2025-05-08 10:10:57,016 - WARNING - B\u1ea3ng fact_table có 140 b\u1ea3n ghi trùng l\u1eb7p
+2025-05-08 10:10:57,057 - INFO - \u0110ã lo\u1ea1i b\u1ecf trùng l\u1eb7p trong b\u1ea3ng fact_table
+2025-05-08 10:10:57,086 - INFO - T\u1ea1o dataset uber-project-459004.uber_dataset
+2025-05-08 10:10:58,612 - INFO - Dataset uber-project-459004.uber_dataset \u0111ã s\u1eb5n sàng
+2025-05-08 10:10:58,644 - INFO - T\u1ea1o dataset uber-project-459004.uber_dataset
+2025-05-08 10:10:59,567 - INFO - Dataset uber-project-459004.uber_dataset \u0111ã s\u1eb5n sàng
+2025-05-08 10:10:59,567 - INFO - T\u1ea3i b\u1ea3ng fact_table lên BigQuery
+2025-05-08 10:11:05,863 - INFO - 99930 out of 99930 rows loaded.
+2025-05-08 10:11:05,863 - INFO - T\u1ea3i b\u1ea3ng fact_table thành công
+2025-05-08 10:11:05,887 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report
+2025-05-08 10:11:09,856 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report thành công
+2025-05-08 10:11:09,863 - INFO - Xu\u1ea5t b\u1ea3ng tbl_analysis_report ra CSV
+2025-05-08 10:11:28,452 - INFO - Xu\u1ea5t file tbl_analysis_report.csv thành công
+2025-05-08 10:11:28,478 - INFO - T\u1ea1o dataset uber-project-459004.uber_dataset
+2025-05-08 10:11:29,470 - INFO - Dataset uber-project-459004.uber_dataset \u0111ã s\u1eb5n sàng
+2025-05-08 10:11:29,471 - INFO - T\u1ea3i b\u1ea3ng fact_table lên BigQuery
+2025-05-08 10:11:35,440 - INFO - 99930 out of 99930 rows loaded.
+2025-05-08 10:11:35,440 - INFO - T\u1ea3i b\u1ea3ng fact_table thành công
+2025-05-08 10:11:35,440 - INFO - T\u1ea3i b\u1ea3ng datetime_dim lên BigQuery
+2025-05-08 10:11:39,634 - INFO - 99853 out of 99853 rows loaded.
+2025-05-08 10:11:39,634 - INFO - T\u1ea3i b\u1ea3ng datetime_dim thành công
+2025-05-08 10:11:39,634 - INFO - T\u1ea3i b\u1ea3ng passenger_count_dim lên BigQuery
+2025-05-08 10:11:42,845 - INFO - 7 out of 7 rows loaded.
+2025-05-08 10:11:42,845 - INFO - T\u1ea3i b\u1ea3ng passenger_count_dim thành công
+2025-05-08 10:11:42,846 - INFO - T\u1ea3i b\u1ea3ng trip_distance_dim lên BigQuery
+2025-05-08 10:11:46,586 - INFO - 2303 out of 2303 rows loaded.
+2025-05-08 10:11:46,586 - INFO - T\u1ea3i b\u1ea3ng trip_distance_dim thành công
+2025-05-08 10:11:46,587 - INFO - T\u1ea3i b\u1ea3ng rate_code_dim lên BigQuery
+2025-05-08 10:11:50,466 - INFO - 6 out of 6 rows loaded.
+2025-05-08 10:11:50,466 - INFO - T\u1ea3i b\u1ea3ng rate_code_dim thành công
+2025-05-08 10:11:50,466 - INFO - T\u1ea3i b\u1ea3ng pickup_location_dim lên BigQuery
+2025-05-08 10:11:54,484 - INFO - 98055 out of 98055 rows loaded.
+2025-05-08 10:11:54,484 - INFO - T\u1ea3i b\u1ea3ng pickup_location_dim thành công
+2025-05-08 10:11:54,485 - INFO - T\u1ea3i b\u1ea3ng dropoff_location_dim lên BigQuery
+2025-05-08 10:11:59,103 - INFO - 98417 out of 98417 rows loaded.
+2025-05-08 10:11:59,103 - INFO - T\u1ea3i b\u1ea3ng dropoff_location_dim thành công
+2025-05-08 10:11:59,103 - INFO - T\u1ea3i b\u1ea3ng payment_type_dim lên BigQuery
+2025-05-08 10:12:02,556 - INFO - 4 out of 4 rows loaded.
+2025-05-08 10:12:02,557 - INFO - T\u1ea3i b\u1ea3ng payment_type_dim thành công
+2025-05-08 10:12:02,561 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report
+2025-05-08 10:12:07,454 - INFO - T\u1ea1o b\u1ea3ng tbl_analysis_report thành công
+2025-05-08 10:12:07,457 - INFO - Xu\u1ea5t b\u1ea3ng tbl_analysis_report ra CSV
+2025-05-08 10:12:36,996 - INFO - Xu\u1ea5t file tbl_analysis_report.csv thành công
+2025-05-08 10:12:44,802 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-08 10:12:44,804 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
