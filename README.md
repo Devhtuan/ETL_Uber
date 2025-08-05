@@ -21,7 +21,7 @@ This project demonstrates a modern data engineering pipeline for analyzing Uber 
 # 🗄️ Data Model
 
 <p align="center">
-  <img src="data_model.jpeg alt="Data Model" width="650"/>
+  <img src="data_model.png alt="Data Model" width="650"/>
 </p>
 
 # ⚙️ Features
@@ -53,5 +53,6 @@ This project demonstrates a modern data engineering pipeline for analyzing Uber 
 **Nguyen Dinh Hoang Tuan**  
 📧 ndhtuan02@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-02353b378) | [GitHub](https://github.com/Devhtuan)
+
 
 
